@@ -7,16 +7,18 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Header in PHP</h1>
-    <hr>
- 
+    
+    <!-- <a href="DLH_home.php">Home</a>
+    <a href="DLH_about.php">About</a>
+    <a href="DLH_Contact.php">Contact</a> -->
+    <!-- <h1>About Page</h1>
+    <h1>Header Exercise </h1> -->
+    <!-- <hr> -->
     <?php
 
-      
-        // Date in the past
-        echo " loading process";
-        header(" Location : https://www.youtube.com/");
+        header("Location : https://www.google.com/");
 
     ?>
+
 </body>
 </html>
